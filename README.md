@@ -22,5 +22,8 @@ git commit -m 'Commit'
 ```
 git push -u origin <Branch>
 ```
-
+#### Đồng bộ hóa code trước khi push
+```
+git pull origin <Branch>
+```
 ## Xem bài tập tại file [exercise.txt](https://github.com/vie-phamhieu/python_exercise/blob/main/exercise.txt)
