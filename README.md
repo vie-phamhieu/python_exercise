@@ -23,4 +23,4 @@ git commit -m 'Commit'
 git push -u ogirin <Branch>
 ```
 
-## Xem bài tập tại file exercise.txt
+## Xem bài tập tại file [exercise.txt](https://github.com/vie-phamhieu/python_exercise/blob/main/exercise.txt)
