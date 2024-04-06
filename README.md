@@ -20,7 +20,7 @@ git commit -m 'Commit'
 ```
 #### Đẩy code lên github
 ```
-git push -u ogirin <Branch>
+git push -u origin <Branch>
 ```
 
 ## Xem bài tập tại file [exercise.txt](https://github.com/vie-phamhieu/python_exercise/blob/main/exercise.txt)
