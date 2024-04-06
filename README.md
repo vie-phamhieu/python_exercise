@@ -26,4 +26,8 @@ git push -u origin <Branch>
 ```
 git pull origin <Branch>
 ```
+#### rebase ( cần thực hiện nếu cùng branch nhưng có sự khác nhau giữa file trên github và local )
+```
+git pull --rebase origin <Branch>
+```
 ## Xem bài tập tại file [exercise.txt](https://github.com/vie-phamhieu/python_exercise/blob/main/exercise.txt)
